@@ -1,8 +1,8 @@
 ini adalah resolusi xiipplg2 untuk semester genap 2025
-
--registrasi API themoviedb.org
--registrasi github.com
--registrasi gitlab.com
 -praktik github
  *membuat repository
  *membuat file resolusi-xiipplg2.txt
+-mengedit file
+ *menghapus registrasi themoviedb.org
+ *menghapus registrasi github.com
+ *menghapus registrasi gitlab.com
